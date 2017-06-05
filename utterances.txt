@@ -1,0 +1,14 @@
+GetNewPlaceIntent a historic peoria place
+GetNewPlaceIntent a historic place 
+GetNewPlaceIntent tell me a historic place
+GetNewPlaceIntent tell me a historic peoria place
+GetNewPlaceIntent tell me a historic place in peoria
+GetNewPlaceIntent tell me a historic place in peoria, illinois
+GetNewPlaceIntent give me a historic place
+GetNewPlaceIntent give me a historic peoria place
+GetNewPlaceIntent give me a historic place in peoria
+GetNewPlaceIntent give me a historic place in peoria, illinois
+GetNewPlaceIntent give me some historic place information
+GetNewPlaceIntent give me some historic peoria places information
+GetNewPlaceIntent tell me something
+GetNewPlaceIntent give me something

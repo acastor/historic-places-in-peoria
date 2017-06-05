@@ -1,7 +1,7 @@
 {
   "name": "historic-places-in-peoria",
   "version": "1.0.0",
-  "description": "A directory of historic places in Peoria, IL registered on the National Register of Historic Places.",
+  "description": "A directory of historic places in Peoria, Illinois registered on the National Register of Historic Places.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
