@@ -1,0 +1,21 @@
+{
+  "name": "historic-places-in-peoria",
+  "version": "1.0.0",
+  "description": "A directory of historic places in Peoria, IL registered on the National Register of Historic Places.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "fact",
+    "peoria",
+    "illinois"
+  ],
+  "author": "Castor Labs",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.9"
+  }
+}
